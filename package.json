@@ -1,0 +1,14 @@
+{
+  "name": "justdowow-website",
+  "version": "1.0.0",
+  "description": "JUSTDOWOW Premium Digital Marketing Agency Website",
+  "type": "module",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site — no build step required'",
+    "deploy": "vercel --prod"
+  }
+}
