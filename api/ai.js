@@ -49,7 +49,7 @@
  * ================================================================
  */
 
-export const config = { runtime: 'edge' }; // FIX-A6
+ // FIX-A6
 
 const GEMINI_MODEL    = 'gemini-2.5-flash';
 const GEMINI_ENDPOINT =
