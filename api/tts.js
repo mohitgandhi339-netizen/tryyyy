@@ -31,7 +31,7 @@
  * ================================================================
  */
 
-export const config = { runtime: 'edge' }; // FIX-B8
+ // FIX-B8
 
 // Default voices per language
 const DEFAULT_VOICE_EN = '21m00Tcm4TlvDq8ikWAM'; // Rachel — warm, professional
