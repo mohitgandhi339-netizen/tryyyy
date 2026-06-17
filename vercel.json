@@ -3,17 +3,7 @@
   "buildCommand": null,
   "outputDirectory": ".",
   "framework": null,
-  "functions": {
-    "api/ai.js": {
-      "runtime": "edge"
-    },
-    "api/tts.js": {
-      "runtime": "edge"
-    },
-    "api/lead.js": {
-      "runtime": "edge"
-    }
-  },
+
   "routes": [
     {
       "src": "/api/ai",
