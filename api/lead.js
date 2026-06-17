@@ -21,7 +21,6 @@
  * ============================================================
  */
 
-export const config = { runtime: 'edge' };
 
 const WEB3FORMS_KEY = 'f2a9eff7-9aec-47ae-92f0-27fd7f497bed';
 // This key is the same one already used by the website's HTML form.
